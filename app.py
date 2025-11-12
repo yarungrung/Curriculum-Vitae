@@ -1,9 +1,9 @@
 import streamlit as st
 from datetime import date
 
-st.set_page_config(layout="wide", page_title="蔡亞蓉履歷！")
+st.set_page_config(layout="wide", page_title="蔡亞蓉的履歷！")
 
-st.title("")
+st.title("蔡亞蓉的履歷！")
 
 st.markdown(
     """
