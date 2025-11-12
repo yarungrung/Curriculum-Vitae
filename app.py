@@ -16,7 +16,7 @@ st.markdown("### 基本資料與自我介紹")
 st.markdown(
     """
      <p>
-    基本資料
+    基本資料<br>
     1. 連絡電話：0939988593 <br>
     2. email：s1243032@gm.ncue.edu.tw <br>
     3. 學歷：彰化師範大學地理學系🌏三年級🗺️<br>
@@ -27,8 +27,8 @@ st.markdown(
        (2)語文能力：中文、英文、台語、西班牙文(A1) <br>
        (3)電腦能力：excel、word、canva、QGIS、Arcgis<br>
 
-    自我介紹
-    您好，我是目前就讀彰化師範大學地理系三年級的蔡亞蓉，
+    自我介紹<br>
+    您好，我是目前就讀彰化師範大學地理系三年級的蔡亞蓉， 縱
     </p>
     """,
     unsafe_allow_html=True
